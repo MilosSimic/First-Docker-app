@@ -144,3 +144,7 @@ To stop docker-compose run:
   minikube dashboard
   ```
    * NOTE: all commands can be found in [official docs](https://kubernetes.io/docs/reference/kubectl/kubectl-cmds/)
+   
+## Travis tutorial
+- Tutorial for travis CICD can be found [here](https://github.com/MilosSimic/Travis-tutorial)
+- Docker image for Travis CLI can be found [here](https://github.com/MilosSimic/mytravis)
